@@ -1,30 +1,18 @@
+# Disciplina de Geometria Analítica
 
-## Animações Matemáticas
+Olá a todos! Bem-vindos ao repositório da disciplina de Geometria Analítica.
 
-### Circunferência
-![Circunferência](Animacoes/circunferencia.gif)
+## Sobre a Disciplina
 
-### Elipse
-![Elipse](Animacoes/elipse.gif)
+Esta disciplina explora os fundamentos da Geometria Analítica, cobrindo conceitos essenciais que são aplicados em diversas áreas da matemática e ciências exatas. Durante o curso, vamos estudar:
 
-### Vetores
-![Vetores](Animacoes/vetores.gif)
+- Sistemas de coordenadas
+- Retas e planos
+- Cônicas (circunferências, elipses, hipérboles, parábolas)
+- Vetores e suas aplicações
+- Matrizes
 
-## Como Utilizar
+## Conteúdo do Repositório
 
-- **Trabalhos:** Contém os trabalhos práticos realizados durante o curso.
-- **Exercícios:** Exercícios propostos e resolvidos.
-- **Projetos:** Projetos desenvolvidos, incluindo descrições e códigos fonte.
-- **Materiais:** Materiais de apoio como slides e livros recomendados.
-- **Animações:** Animações matemáticas para visualização de conceitos geométricos.
+Este repositório contém materiais de estudo e trabalhos desenvolvidas ao longo do semestre.
 
-## Contato
-
-Para dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
-
-- [LinkedIn](https://www.linkedin.com/in/SeuPerfil/)
-- [Email](mailto:seuemail@exemplo.com)
-
----
-
-Aproveite os materiais e bons estudos!
